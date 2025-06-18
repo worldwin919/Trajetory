@@ -20,3 +20,9 @@ This project aims to predict the future trajectories of celestial bodies (e.g., 
 ## 📷 Landing page
 ![Demo](landing.png)
 
+## 📷 Landing page
+![Demo](landing.png)
+
+## 📷 Landing page
+![Demo](landing.png)
+
