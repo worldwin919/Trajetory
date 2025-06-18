@@ -20,9 +20,9 @@ This project aims to predict the future trajectories of celestial bodies (e.g., 
 ## 📷 Landing page
 ![Demo](landing.png)
 
-## 📷 Landing page
-![Demo](landing.png)
+## 📷 For a particular Celsetial Body
+![Demo](demoimg.png)
 
-## 📷 Landing page
-![Demo](landing.png)
+## 📷 For all the PLanets and sun at centre
+![Demo](demotwo.png)
 
